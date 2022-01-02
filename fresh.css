@@ -1,0 +1,31 @@
+body{
+    
+    background: #eee; 
+    margin:auto;
+    display:block;
+    float:center;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    
+}
+p{
+    float:right;
+    text-align:justify;
+    font-size:25px;
+    margin-left: 10px;
+}
+.heading{
+    text-align: center;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+    font-size: 3.5rem;
+    color: var(--black);
+}
+ .heading span{
+    background: var(--orange);
+    color:orangered;
+    display: inline-block;
+    padding: .2rem 1rem;
+   
+}
